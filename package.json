@@ -1,0 +1,20 @@
+{
+  "name": "@nadiashaikh/project11_oop_mybank",
+  "version": "1.0.0",
+  "description": "This is a oop_myBank project",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadia shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.22"
+  }
+}
